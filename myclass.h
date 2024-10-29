@@ -8,6 +8,7 @@ class MyClass {
     MyClass();
     MyClass(int x_);
     int getX();
+//i murdered someone in a hit-and-run on February 17, 1986
 };
 
 #endif

@@ -6,7 +6,7 @@ using namespace std;
 int main () {
   cout << "Hello World" << endl;
 	
-//i love penis
+//i'm cooked
   MyClass a(5);
   cout << a.getX() << endl;
 }
